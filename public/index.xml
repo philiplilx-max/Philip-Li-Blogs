@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Project</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/Philip-Li-Blogs/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 00:56:50 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2026 01:36:10 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/Philip-Li-Blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Study Graphics</title>
+      <link>http://localhost:1313/Philip-Li-Blogs/posts/study-graphics/</link>
+      <pubDate>Sun, 06 Sep 2026 01:36:10 +0800</pubDate>
+      <guid>http://localhost:1313/Philip-Li-Blogs/posts/study-graphics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/Philip-Li-Blogs/posts/my-first-post/</link>
       <pubDate>Sun, 06 Sep 2026 00:56:50 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/Philip-Li-Blogs/posts/my-first-post/</guid>
       <description>&lt;p&gt;THis is Philip Li&amp;rsquo;s first post online. Wish he all the best from this moment!&lt;/p&gt;</description>
     </item>
   </channel>
